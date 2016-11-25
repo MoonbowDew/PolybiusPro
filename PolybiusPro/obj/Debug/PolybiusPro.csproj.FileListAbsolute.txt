@@ -1,0 +1,9 @@
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\bin\Debug\PolybiusPro.exe.config
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\bin\Debug\PolybiusPro.exe
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\bin\Debug\PolybiusPro.pdb
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\obj\Debug\PolybiusPro.csprojResolveAssemblyReference.cache
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\obj\Debug\PolybiusPro.Form1.resources
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\obj\Debug\PolybiusPro.Properties.Resources.resources
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\obj\Debug\PolybiusPro.csproj.GenerateResource.Cache
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\obj\Debug\PolybiusPro.exe
+c:\users\dew\documents\visual studio 2013\Projects\PolybiusPro\PolybiusPro\obj\Debug\PolybiusPro.pdb
